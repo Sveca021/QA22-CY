@@ -1,0 +1,22 @@
+{
+    "registrationPage": {
+        "firstNameInputfield": "#first-name",
+        "lastnameinputField": "#last-name",
+        "emailInputField": "#email",
+        "passwordInputField": "#password",
+        "passwordConfirmationInputField": "#password-confirmation",
+        "termsCheckbox": ".form-check-input",
+        "submitButton": "button"
+    },
+    "loginPage": {
+        "emailInputField": "#email",
+        "passwordField": "#password",
+        "submitButton": "button"
+    },
+    "creategalleryPage": {
+        "titleInputField": "#title",
+        "descriptionInputField": "#description",
+        "imageInputField": "[type='url']",
+        "submitButton": "[type='submit']"
+    }
+}
